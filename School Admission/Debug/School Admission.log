@@ -1,5 +1,0 @@
-﻿  School Admission.cpp
-C:\Users\User\source\repos\Private\School Admission\School Admission\School Admission.cpp(44,13): warning C4101: mm: неиспользованная локальная переменная
-C:\Users\User\source\repos\Private\School Admission\School Admission\School Admission.cpp(44,17): warning C4101: yyyy: неиспользованная локальная переменная
-C:\Users\User\source\repos\Private\School Admission\School Admission\School Admission.cpp(44,9): warning C4101: dd: неиспользованная локальная переменная
-  School Admission.vcxproj -> C:\Users\User\source\repos\Private\School Admission\Debug\School Admission.exe
